@@ -1,3 +1,18 @@
 name: Hank Quinlan, Horrible Cop
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+footer-links:
+  dribbble: 
+  email: rkrish11@ncsu.edu
+  facebook: RaHLK
+  flickr: 
+  github: rahlk
+  instagram: rkrsn
+  linkedin: rkrsn
+  pinterest: 
+  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
+  twitter: rahlkrsn
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+
+# Your disqus shortname, entering this will enable commenting on posts
+disqus: rkrsn
