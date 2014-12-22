@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rahul KRISHNA sets up his site, finally.."
+title: "I set up my site, finally.."
 date: 2014-12-21
 ---
 
