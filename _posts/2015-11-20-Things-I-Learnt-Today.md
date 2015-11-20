@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#TIL Nov, 20..."
+title: "#TIL"
 date: 2015-11-20
 ---
 
