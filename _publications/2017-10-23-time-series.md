@@ -2,7 +2,7 @@
 title: "What is the Connection Between Issues, Bugs, and Enhancements? (Lessons Learned from 800+ Software Projects)"
 collection: publications
 permalink: /publication/2017-10-23-time-series
-excerpt: 'This paper has been sumbitted to ICSE 2018 Software Engineering in Practice (SEIP) track. This work introduces the use of time series modeling with ARIMA models to forecast issues, bugs, and enhancements. What\'s more interesting is that we show that these models are transferable, i.e., ARIMA models built on issues can be used to forecast for bugs and enhancements. This was true in over 800 different proprietary and open-source projects.' 
+excerpt: 'This paper has been sumbitted to ICSE 2018 Software Engineering in Practice (SEIP) track. This work introduces the use of time series modeling with ARIMA models to forecast issues, bugs, and enhancements. What is more interesting is that we show that these models are transferable, i.e., ARIMA models built on issues can be used to forecast for bugs and enhancements. This was true in over 800 different proprietary and open-source projects.' 
 date: 2017-10-23
 venue: '(Under Review) ICSE Software Engineering in Practice 2018'
 paperurl: 'https://arxiv.org/abs/1710.08736'
