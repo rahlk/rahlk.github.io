@@ -3,7 +3,7 @@ title: '"Sampling" as a Baseline Optimizer for Search-based Software Engineering
 collection: publications
 permalink: /publication/2017-12-1-config-jf
 excerpt: 'In this paper, we propose an alternative approach to solving software engineering problems with multiple conflicting objectives. We start with a very large population and sample down to just the better solutions. We call this method "SWAY", short for "the sampling way". We find that this sampling approach is competitive with corresponding state-of-the-art evolutionary algorithms while also being significantly computationally inexpensive.'
-date: 2015-12-12
+date: 2017-12-01
 venue: 'IEEE Transactions on Software Engineering'
 paperurl: 'https://arxiv.org/abs/1608.07617'
 citation: 'Chen, J., Nair, V., Krishna, R., & Menzies, T. “Sampling as a Baseline Optimizer for Search-based Software Engineering”. In IEEE
