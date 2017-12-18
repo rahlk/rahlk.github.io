@@ -1,7 +1,7 @@
 ---
 title: "Bellwethers: A Baseline Method For Transfer Learning"
 collection: publications
-permalink: /publication/2017-12-1-bellw-tse
+permalink: /publication/2017-12-3-bellw-tse
 excerpt: 'This paper demonstrates the existence of a _bellwether effect_ in a number of software engineering domains such as: (1) defect prediction; (2) effort estimation; (3) code smell detection; and (4) issue lifetime estimation. This paper also shows that the _bellwether effect_ can be leveraged to create a baseline transfer learner and that this baseline transfer learner can outperform several state of the art transfer learners.'
 date: 2017-12-03
 venue: 'In IEEE Transactions on Software Engineering (pending revision)'

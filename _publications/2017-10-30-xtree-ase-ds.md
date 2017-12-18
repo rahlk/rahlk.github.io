@@ -1,7 +1,7 @@
 ---
 title: "Learning Effective Changes for Software Projects"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2017-10-30-xtree-ase-ds
 excerpt: 'This is a short paper presented at ASE 2017 briefly highlighting my research. This paper explores planning by seeking methods that support actionable analytics that offer clear guidance on what to do. Specifically, this paper introduces XTREE and BELLTREE algorithms for generating a set of actionable plans within and across projects.'
 date: 2017-10-30
 venue: '32nd Intl. Conference on Automated Software Engineering Doctoral Symposium'
