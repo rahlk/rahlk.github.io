@@ -6,8 +6,8 @@ excerpt: 'This paper demonstrates the existence of a _bellwether effect_ in a nu
 date: 2017-12-03
 venue: 'In IEEE Transactions on Software Engineering (pending revision)'
 paperurl: 'https://arxiv.org/pdf/1703.06218.pdf'
-citation: 'Krishna, R. & Menzies, T. ''Bellwethers: 
-    A Baseline Method For Transfer Learning''. In IEEE Transactions on 
+citation: 'Krishna, R. & Menzies, T. "Bellwethers: 
+    A Baseline Method For Transfer Learning". In IEEE Transactions on 
     Software Engineering (pending revision), 2017. '
 ---
 
