@@ -5,7 +5,7 @@ permalink: /publication/2017-10-30-xtree-ase-ds
 excerpt: 'This is a short paper presented at ASE 2017 briefly highlighting my research. This paper explores planning by seeking methods that support actionable analytics that offer clear guidance on what to do. Specifically, this paper extends the XTREE algorithm (into BELLTREE) for generating a set of actionable plans within and across projects.'
 date: 2017-10-30
 venue: '32nd Intl. Conference on Automated Software Engineering Doctoral Symposium'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://arxiv.org/abs/1708.04589'
 citation: 'Krishna, R. “Learning effective changes for software projects”. 32nd Intl. Conference on Automated Software Engineering Doctoral
 Symposium, October 2017. Available: http://dl.acm.org/citation.cfm?id=3155562.3155695;'
 ---
