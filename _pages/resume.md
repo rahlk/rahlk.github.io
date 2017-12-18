@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="https://drive.google.com/a/ncsu.edu/uc?authuser=1&id=1k-ucd9VLeobLNaS2GqgUKvlUSnHuGrpJ&export=download" class="download" title="Download Resume as PDF"><font size="4" style="color:#F78181">Download Resume as PDF</font></a>
+<a href="https://raw.githubusercontent.com/rahlk/rahlk.github.io/master/files/resume.pdf" class="download" title="Download Resume as PDF"><font size="4" style="color:#F78181">Download Resume as PDF</font></a>
 
-<a href="https://drive.google.com/file/d/1k-ucd9VLeobLNaS2GqgUKvlUSnHuGrpJ/view"><img src="https://raw.githubusercontent.com/rahlk/rahlk.github.io/master/images/resume.png" class="img-responsive" alt="Cinque Terre"></a>
+<a href="https://raw.githubusercontent.com/rahlk/rahlk.github.io/master/files/resume.pdf"><img src="https://raw.githubusercontent.com/rahlk/rahlk.github.io/master/images/resume.png" class="img-responsive" alt="Cinque Terre"></a>
  
