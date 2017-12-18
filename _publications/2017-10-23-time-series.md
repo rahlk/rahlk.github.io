@@ -10,6 +10,8 @@ citation: 'Krishna, R., Agrawal, A., Rahman, A., Sobran, A., & Menzies, T. “Wh
 (Lessons Learned from 800+ Software Projects)”. (Under review) ICSE 2018 SEIP. Preprint: https://arxiv.org/abs/1710.08736;'
 ---
 
+**Abstract**
+
 Agile teams juggle multiple tasks so professionals are often assigned to multiple projects, especially in service organizations that monitor and maintain a large suite of software for a large user base. If we could predict changes in project conditions changes, then managers could better adjust the staff allocated to those projects.This paper builds such a predictor using data from 832 open source and proprietary applications. Using a time series analysis of the last 4 months of issues, we can forecast how many bug reports and enhancement requests will be generated next month. The forecasts made in this way only require a frequency count of this issue reports (and do not require an historical record of bugs found in the project). That is, this kind of predictive model is very easy to deploy within a project. We hence strongly recommend this method for forecasting future issues, enhancements, and bugs in a project. 
 
 **Bibtex**

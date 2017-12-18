@@ -10,6 +10,8 @@ citation: 'Chen, J., Nair, V., Krishna, R., & Menzies, T. “Sampling as a Basel
 Transactions on Software Engineering (to appear), 2017. Preprint: arXiv:1608.07617;'
 ---
 
+**Abstract**
+
 Increasingly, Software Engineering (SE) researchers use search-based optimization techniques to solve SE problems with multiple conflicting objectives. These techniques often apply CPU-intensive evolutionary algorithms to explore generations of mutations to a population of candidate solutions. An alternative approach, proposed in this paper, is to start with a very large population and sample down to just the better solutions. We call this method "SWAY", short for "the sampling way". Sway is very simple to implement and, in studies with various software engineering models, this sampling approach was found to be competitive with corresponding state-of-the-art evolutionary algorithms while requiring far less computation cost. Considering the simplicity and effectiveness of Sway, we, therefore, propose this approach as a baseline method for search-based software engineering models, especially for models that are very slow to execute. 
 
 **Bibtex**
