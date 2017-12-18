@@ -14,7 +14,7 @@ citation: 'Krishna, R. & Menzies, T. ''Bellwethers:
 Software analytics builds quality prediction models for software projects. Experience shows that (a) the more projects studied, the more varied are the conclusions; and (b) project managers lose faith in the results of software analytics if those results keep changing To reduce this conclusion instability, we propose "bellwethers": given N projects from a community the bellwether is the project whose data yields best predictions on all others. The bellwethers offer a way to tame conclusion stability because conclusions about a community are stable as long as this bellwether continues as the best oracle. Bellwethers are also simple to discover (just wrap a for-loop around standard data miners). When compared to other transfer learning methods (TCA+, transfer Naive Bayes, value cognitive boosting), using just the bellwether data to construct a simple transfer learner yields comparable predictions. Further, bellwethers appear in many SE tasks such as defect prediction, effort estimation, bad smell detection and predicting issue lifetime. We hence recommend using bellwethers as a baseline method for transfer learning against which future work should be compared.
 
 
-Bibtex:
+**Bibtex:**
 ```
 @article{DBLP:journals/corr/KrishnaM17,
   author    = {Rahul Krishna and
