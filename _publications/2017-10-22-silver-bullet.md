@@ -1,37 +1,35 @@
 ---
-title: "What is the Connection Between Issues, Bugs, and Enhancements? (Lessons Learned from 800+ Software Projects)"
+title: "Continuous Integration: The Silver Bullet? "
 collection: publications
-permalink: /publication/2017-10-23-time-series
-excerpt: 'This paper has been sumbitted to ICSE 2018 Software Engineering in Practice (SEIP) track. This work introduces the use of time series modeling with ARIMA models to forecast issues, bugs, and enhancements. What is more interesting is that we show that these models are transferable, i.e., ARIMA models built on issues can be used to forecast for bugs and enhancements. This was true in over 800 different proprietary and open-source projects.' 
-date: 2017-10-23
+permalink: /publication/2017-10-22-silver-bullet
+excerpt: 'This paper has been sumbitted to ICSE 2018 Software Engineering in Practice (SEIP) track. This work compares the impact of CI in opensource and inhouse projects. For OSS projects, we observe the expected benefits after CI adoption, i.e. more bugs are resolved, and more issues are resolved. However, for the proprietary projects, we cannot make similar observations. Therefore, we cannot claim that CI is the "silver bullet" for software development.' 
+date: 2017-10-22
 venue: '(Under Review) ICSE Software Engineering in Practice 2018'
-paperurl: 'https://arxiv.org/abs/1710.08736'
-citation: 'Krishna, R., Agrawal, A., Rahman, A., Sobran, A., & Menzies, T. “What is the Connection Between Issues, Bugs, and Enhancements?
-(Lessons Learned from 800+ Software Projects)”. (Under review) ICSE 2018 SEIP. Preprint: https://arxiv.org/abs/1710.08736;'
+paperurl: 'https://arxiv.org/abs/1711.03933'
+citation: 'Rahman, A., Agrawal, A., Krishna, R., Sobran, A., & Menzies, T. (2017). "Continuous Integration: The Silver Bullet?". (Under review) ICSE 2018 SEIP. Preprint: https://arxiv.org/abs/1711.03933;'
 ---
 
 **Abstract**
 
-Agile teams juggle multiple tasks so professionals are often assigned to multiple projects, especially in service organizations that monitor and maintain a large suite of software for a large user base. If we could predict changes in project conditions changes, then managers could better adjust the staff allocated to those projects.This paper builds such a predictor using data from 832 open source and proprietary applications. Using a time series analysis of the last 4 months of issues, we can forecast how many bug reports and enhancement requests will be generated next month. The forecasts made in this way only require a frequency count of this issue reports (and do not require an historical record of bugs found in the project). That is, this kind of predictive model is very easy to deploy within a project. We hence strongly recommend this method for forecasting future issues, enhancements, and bugs in a project. 
+Continuous integration (CI) tools integrate code changes by automatically compiling, building, and executing test cases upon submission of code changes. Use of CI tools is getting increasingly popular, yet how proprietary projects reap the benefits of CI remains unknown. To investigate the influence of CI on software development, we mine 661 open source software (OSS) projects, and 171 proprietary projects. For OSS projects, we observe the expected benefits after CI adoption, i.e. more bugs are resolved, and more issues are resolved. However, for the proprietary projects, we cannot make similar observations. Therefore, we cannot claim that CI is the 'silver bullet' for software development. Why is this so? Our findings indicate that only adoption of CI might not be enough to improve software development. CI can be effective for software development if practitioners use CI's feedback mechanism efficiently, by applying the practice of making frequent commits. For proprietary projects we observe practitioners to commit less frequently, and hence not use CI effectively, for obtaining feedback on the submitted code changes. We recommend practitioners to (i) apply the CI best practices along with adoption of CI tools, (ii) consider their team's development context before adopting CI tools, and (iii) after adoption of CI, investigate if CI satisfies their needs by applying software analytics. 
 
 **Bibtex**
 ```
-@article{DBLP:journals/corr/abs-1710-08736,
-  author    = {Rahul Krishna and
+@article{DBLP:journals/corr/abs-1711-03933,
+  author    = {Akond Rahman and
                Amritanshu Agrawal and
-               Akond Rahman and
+               Rahul Krishna and
                Alexander Sobran and
                Tim Menzies},
-  title     = {What is the Connection Between Issues, Bugs, and Enhancements? (Lessons
-               Learned from 800+ Software Projects)},
+  title     = {Continuous Integration: The Silver Bullet?},
   journal   = {CoRR},
-  volume    = {abs/1710.08736},
+  volume    = {abs/1711.03933},
   year      = {2017},
-  url       = {http://arxiv.org/abs/1710.08736},
+  url       = {http://arxiv.org/abs/1711.03933},
   archivePrefix = {arXiv},
-  eprint    = {1710.08736},
-  timestamp = {Thu, 02 Nov 2017 14:25:36 +0100},
-  biburl    = {http://dblp.org/rec/bib/journals/corr/abs-1710-08736},
+  eprint    = {1711.03933},
+  timestamp = {Fri, 01 Dec 2017 14:22:24 +0100},
+  biburl    = {http://dblp.org/rec/bib/journals/corr/abs-1711-03933},
   bibsource = {dblp computer science bibliography, http://dblp.org}
 }
 ```
