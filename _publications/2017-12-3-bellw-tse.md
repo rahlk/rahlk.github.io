@@ -8,7 +8,7 @@ venue: 'In IEEE Transactions on Software Engineering'
 paperurl: 'https://arxiv.org/pdf/1703.06218.pdf'
 citation: 'Krishna, R. & Menzies, T. "Bellwethers: 
     A Baseline Method For Transfer Learning". In IEEE Transactions on 
-    Software Engineering (pending revision), 2017. '
+    Software Engineering, 2018. '
 ---
 
 **Abstract**
