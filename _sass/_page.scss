@@ -5,7 +5,7 @@
 #main {
   @include container;
   @include clearfix;
-  margin-top: 0em;
+  margin-top: 2em;
   padding-left: 1em;
   padding-right: 1em;
   animation: intro 0.3s both;
@@ -85,13 +85,13 @@
   }
 
   dt {
-    margin-top: 0em;
-    font-family: $monospace;
-    font-weight: normal;
+    margin-top: 1em;
+    font-family: $sans-serif;
+    font-weight: bold;
   }
 
   dd {
-    margin-left: 0em;
+    margin-left: 1em;
     font-family: $sans-serif;
     font-size: $type-size-6;
   }
