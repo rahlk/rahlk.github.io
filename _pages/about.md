@@ -8,15 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Scholar, a data scientist, and a full-stack software developer majoring in Computer Science at North Carolina State University. My research explores ways in which aspects of pattern recognition and artificial intelligence can be used to generate *Actionable Analytics*.
+I am a Post doctoral fellow at Columbia University. My current research explores ways in which machine learning and artificial intelligence can be used for software testing.
 
-Specifically, I develop algorithms that go beyond prediction to generate insights that can assist decision making. Our research group achieves this using *XTREE*. Read more [here](https://rahlk.github.io/publication/2017-11-30-xtree-ist).
+During my PhD, I worked on *actionable analytics* for software engineering. I developed algorithms that go beyond prediction to generate insights that can assist decision making. Our research group achieves this using *XTREE*. Read more [here](https://rahlk.github.io/publication/2017-11-30-xtree-ist).
 
-We also develop algorithms that generate insights even when sufficient data is not available. This is achieved with transfer learning using what are known as *Bellwethers*. Read more [here](https://rahlk.github.io/publication/2017-12-3-bellw-tse).
+I also worked on developing data mining techiques to generate insights even when sufficient data is not available. This was done using what are known as *Bellwethers*. Read more [here](https://rahlk.github.io/publication/2017-12-3-bellw-tse).
 
-In my free time I boulder and practice Muai Thai. I am also a self-proclaimed audiophile and a vinyl nerd. 
-
-If you are a potential employer, **I am currently looking for a full time job**: 
   + Be sure to check out my [resume](https://rahlk.github.io/resume/). 
   + See my publications [here](https://rahlk.github.io/publications/). 
-  + See some of my talks [here](https://rahlk.github.io/talks/).
