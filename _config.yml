@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rahul KRISHNA"
+title                    : "Rahul Krishna"
 title_separator          : "-"
 name                     : &name "Rahul Krishna"
 description              : &description "personal description"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rahul KRISHNA"
+  name             : "Rahul Krishna"
   avatar           : "ppic.jpg"
   bio              : "Post Doctoral Fellow; Machine Learning; Software Testing."
   location         : "Columbia University"
