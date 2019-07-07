@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "rahlkrsn"
+  username               : &twitter "r_krsn"
 facebook:
   username               : "rahlk"
   app_id                 :
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Rahul KRISHNA"
   avatar           : "ppic.jpg"
-  bio              : "PostDoc @ Columbia University // Machine Learning ⇄ Software Testing"
+  bio              : "PostDoc @ Columbia. Machine Learning ⇄ Software Testing"
   location         : "NC State University"
   employer         : 
   googlescholar    : "https://scholar.google.co.in/citations?user=WGggocoAAAAJ&hl=en"
