@@ -43,4 +43,8 @@ author_profile: true
 
 ## Under Review
 
-+ 
++ **Krishna, R.**, Tang, C., Sullivan, K., Ray, B., "ConEx: Efficient Exploration of Big-Data System Configurations for Better Performance". IEEE Transactions on Software Engineering, 2019. Online: [https://arxiv.org/pdf/1910.09644.pdf](https://arxiv.org/pdf/1910.09644.pdf)
+
++ **Krishna, R.**, Nair, V., Jamshidi, P., & Menzies, T., "Whence to Learn? Transferring Knowledge in Configurable Systems using BEETLE." IEEE Transactions on Software Engineering, 2019. [https://arxiv.org/pdf/1910.09644.pdf](https://arxiv.org/pdf/1910.09644.pdf)
+
++ **Krishna, R.**, Menzies, T., "Learning Actionable Analytics from Multiple Software Projects". Empirical Software Engineering Journal, 2019. Online: [https://arxiv.org/pdf/1708.05442.pdf](https://arxiv.org/pdf/1708.05442.pdf)
