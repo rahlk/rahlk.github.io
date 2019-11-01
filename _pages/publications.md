@@ -20,12 +20,11 @@ author_profile: true
 
 + Wang, J., Yang, Y., **Krishna, R.**, Menzies, T. & Wang, Q., "Effective Automated Decision Support for Managing Crowd testing".  Intl.Conference on Foundations of Software Engineering, 2019, Online: [https://arxiv.org/pdf/1805.02744.pdf](https://arxiv.org/pdf/1805.02744.pdf);
 
-##### Under Review
-+ **Krishna, R.**, Tang, C., Sullivan, K., Ray, B., "ConEx: Efficient Exploration of Big-Data System Configurations for Better Performance". IEEE Transactions on Software Engineering, 2019. Online: [https://arxiv.org/pdf/1910.09644.pdf](https://arxiv.org/pdf/1910.09644.pdf);
++ **Krishna, R.**, Tang, C., Sullivan, K., Ray, B., "ConEx: Efficient Exploration of Big-Data System Configurations for Better Performance". IEEE Transactions on Software Engineering, 2019 (Under Review). Online: [https://arxiv.org/pdf/1910.09644.pdf](https://arxiv.org/pdf/1910.09644.pdf);
 
-+ **Krishna, R.**, Nair, V., Jamshidi, P., & Menzies, T., "Whence to Learn? Transferring Knowledge in Configurable Systems using BEETLE." IEEE Transactions on Software Engineering, 2019. [https://arxiv.org/pdf/1910.09644.pdf](https://arxiv.org/pdf/1910.09644.pdf);
++ **Krishna, R.**, Nair, V., Jamshidi, P., & Menzies, T., "Whence to Learn? Transferring Knowledge in Configurable Systems using BEETLE." IEEE Transactions on Software Engineering, 2019 (Under Review). [https://arxiv.org/pdf/1910.09644.pdf](https://arxiv.org/pdf/1910.09644.pdf);
 
-+ **Krishna, R.**, Menzies, T., "Learning Actionable Analytics from Multiple Software Projects". Empirical Software Engineering Journal, 2019. Online: [https://arxiv.org/pdf/1708.05442.pdf](https://arxiv.org/pdf/1708.05442.pdf);
++ **Krishna, R.**, Menzies, T., "Learning Actionable Analytics from Multiple Software Projects". Empirical Software Engineering Journal, 2019 (Under Review). Online: [https://arxiv.org/pdf/1708.05442.pdf](https://arxiv.org/pdf/1708.05442.pdf);
 
 ### 2018 
 
