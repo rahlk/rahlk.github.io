@@ -1,18 +1,10 @@
 ---
 # layout: archive
-title: "Projects"
+title: "Research Projects"
 permalink: /projects/
 author_profile: true
 ---
 
-<!-- {% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
-
-
-# Research Projects
 
 ## Coverage-Guide Graybox Fuzzing with Multitask Neural Networks 
 **Project site:**  [rkrsn.us/MTFuzz](rkrsn.us/MTFuzz) 
