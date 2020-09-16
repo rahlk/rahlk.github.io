@@ -25,11 +25,11 @@ I also worked on developing data mining techniques to generate insights even whe
 
 Working as a member of ARiSE Lab with Dr. Ray. My primary research was to develop a neural network based fuzzing framework.
 
-    + Developed a _multi-task neural-network_ fuzzing framework called MTFuzz.
-    
-    + MTFuzz can reduce a high-dimensional input space into a _compact embedding_ using multiple code coverage measures.
-    
-    + MTFuzz could find _71 unknown bugs_ in 10 programs and achieve _20%_ more code coverage.
++ Developed a _multi-task neural-network_ fuzzing framework called MTFuzz.
+
++ MTFuzz can reduce a high-dimensional input space into a _compact embedding_ using multiple code coverage measures.
+
++ MTFuzz could find _71 unknown bugs_ in 10 programs and achieve _20%_ more code coverage.
 ## ConEX:
 
 ## BEETLE:
