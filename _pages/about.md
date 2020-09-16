@@ -21,12 +21,11 @@ I also worked on developing data mining techniques to generate insights even whe
 # Selected Projects
 
 ## MTFuzz: Fuzzing with a Multitask Neural Network
-
-  <ul style="list-style-type:Disc">
-    <li>Developed a _multi-task neural-network_ fuzzing framework called MTFuzz.</li>
-    <li>MTFuzz can reduce a high-dimensional input space into a _compact embedding_ using multiple code coverage measures.</li>
-    <li>MTFuzz could find _71 unknown bugs_ in 10 programs and achieve _20%_ more code coverage.</li>
-  </ul>
+    + Developed a _multi-task neural-network_ fuzzing framework called MTFuzz.
+    
+    + MTFuzz can reduce a high-dimensional input space into a _compact embedding_ using multiple code coverage measures.
+    
+    + MTFuzz could find _71 unknown bugs_ in 10 programs and achieve _20%_ more code coverage.
 ## ConEX:
 
 ## BEETLE:
