@@ -20,10 +20,10 @@ I also worked on developing data mining techniques to generate insights even whe
 
 # Selected Projects
 
-### MTFuzz: Fuzzing with a Multitask Neural Network
-<a href="https://user-images.githubusercontent.com/57293631/80742593-a34d8100-8ae9-11ea-9f52-a1931d945a5c.png"><img src="https://user-images.githubusercontent.com/57293631/80742593-a34d8100-8ae9-11ea-9f52-a1931d945a5c.png" class="img-responsive" alt="http://rkrsn.us/MTFuzz/"></a>
+## Coverage-Guide Graybox Fuzzing with Multitask Neural Networks 
+**Project site:**  [rkrsn.us/MTFuzz](rkrsn.us/MTFuzz) 
 
-**Project site: [](rkrsn.us/MTFuzz)**
+<a href="https://user-images.githubusercontent.com/57293631/80742593-a34d8100-8ae9-11ea-9f52-a1931d945a5c.png"><img src="https://user-images.githubusercontent.com/57293631/80742593-a34d8100-8ae9-11ea-9f52-a1931d945a5c.png" class="img-responsive" alt="http://rkrsn.us/MTFuzz/"></a>
 
 + Developed a _multi-task neural-network_ fuzzing framework called MTFuzz.
 
@@ -31,13 +31,13 @@ I also worked on developing data mining techniques to generate insights even whe
 
 + MTFuzz could find _71 unknown bugs_ in 10 programs and achieve _20%_ more code coverage.
 
-### ConEX:
+## ConEX
 
-### BEETLE:
+## BEETLE:
 
-### ReVEAL:
+## ReVEAL:
 
-### XTREE
+## XTREE
 
 # Industrial Projects
  
