@@ -21,6 +21,10 @@ I also worked on developing data mining techniques to generate insights even whe
 # Selected Projects
 
 ## MTFuzz: Fuzzing with a Multitask Neural Network
+<a href="https://user-images.githubusercontent.com/57293631/80742593-a34d8100-8ae9-11ea-9f52-a1931d945a5c.png"><img src="https://user-images.githubusercontent.com/57293631/80742593-a34d8100-8ae9-11ea-9f52-a1931d945a5c.png" class="img-responsive" alt="http://rkrsn.us/MTFuzz/"></a>
+
+Working as a member of ARiSE Lab with Dr. Ray. My primary research was to develop a neural network based fuzzing framework.
+
     + Developed a _multi-task neural-network_ fuzzing framework called MTFuzz.
     
     + MTFuzz can reduce a high-dimensional input space into a _compact embedding_ using multiple code coverage measures.
