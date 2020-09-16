@@ -12,15 +12,29 @@ I am a Post doctoral fellow at Columbia University. My current research explores
 
 During my PhD, I worked on *actionable analytics* for software engineering. I developed algorithms that go beyond prediction to generate insights that can assist decision making. Our research group achieves this using *[XTREE](https://rahlk.github.io/publication/2017-11-30-xtree-ist)*.
 
-I also worked on developing data mining techiques to generate insights even when sufficient data is not available. This was done using what are known as *[Bellwethers](https://rahlk.github.io/publication/2017-12-3-bellw-tse)*.
+I also worked on developing data mining techniques to generate insights even when sufficient data is not available. This was done using what are known as *[Bellwethers](https://rahlk.github.io/publication/2017-12-3-bellw-tse)*.
 
-  <!-- + My [Resume](https://rahlk.github.io/resume/). 
-  + My [Publications](https://rahlk.github.io/publications/).  -->
+
+  + My [Resume](https://rahlk.github.io/resume/). 
+  + My [Publications](https://rahlk.github.io/publications/). 
 
 # Selected Projects
 
 ## MTFuzz: Fuzzing with a Multitask Neural Network
-
+<div class="row">
+  <div class="col-proj-pic"><img src="images/General_FASTREAD.png"></div>
+    <div class="col-proj-desc">
+        <papertitle>Total Recall and Software Engineering</papertitle>
+      <br>
+      Aug 2015 - May 2020
+      <p> Working as a member of RAISE Lab, following the instruction of Dr. Menzies. My primary research is to apply machine learning algorithms to support human retrieve desired information from big data with less effort.</p>
+              <ul style="list-style-type:Disc">
+                <li>Developed a method called FASTREAD to support fast selection of primary studies in systematic reviews. </li>
+                <li>A tool has been developed to implement FASTREAD, which can be found at <a href="https://github.com/fastread/src">https://github.com/fastread/src</a>. </li>
+                <li>Same idea applied to solve software security vulnerability prediction problem and test case prioritization problem. </li>
+                </ul>
+    </div>
+  </div>
 ## ConEX:
 
 ## BEETLE:
