@@ -1,9 +1,16 @@
 ---
-# layout: archive
+layout: archive
 title: "Projects"
-permalink: /projects/
+permalink: /Projects/
 author_profile: true
 ---
+
+{% include base_path %}
+
+{% for post in site.projects %}
+  {% include archive-single.html %}
+{% endfor %}
+
 
 # Research Projects
 
@@ -30,11 +37,3 @@ author_profile: true
 + Using small workloads as proxies, we show that ConEX can find near optimum configurations for workloads that are 100x to 1000x larger.
 
 + ConEX outperforms competing approaches based on random sampling, genetic algorithms (GA), and ML.
-
-## BEETLE:
-
-## ReVEAL:
-
-## XTREE
-
-# Industrial Projects
