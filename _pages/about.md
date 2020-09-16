@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: ""
+title: "About Me"
 excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-## About Me
+
 I am a Post doctoral fellow at Columbia University. My current research explores ways in which machine learning and artificial intelligence can be used for software testing.
 
 During my PhD, I worked on *actionable analytics* for software engineering. I developed algorithms that go beyond prediction to generate insights that can assist decision making. Our research group achieves this using *[XTREE](https://rahlk.github.io/publication/2017-11-30-xtree-ist)*.
@@ -17,7 +17,21 @@ I also worked on developing data mining techiques to generate insights even when
   <!-- + My [Resume](https://rahlk.github.io/resume/). 
   + My [Publications](https://rahlk.github.io/publications/).  -->
 
-## Selected Publications 
+# Selected Projects
+
+## MTFuzz: Fuzzing with a Multitask Neural Network
+
+## ConEX:
+
+## BEETLE:
+
+## ReVEAL:
+
+## XTREE
+
+# Industrial Projects
+ 
+# Selected Publications 
 
 + Wang, J., Yang, Y., **Krishna, R.**, Menzies, T. & Wang, Q., "Effective Automated Decision Support for Managing Crowd testing".  **Intl. Conference on Software Engineering, 2019**, Online: [https://arxiv.org/pdf/1805.02744.pdf](https://arxiv.org/pdf/1805.02744.pdf);
 
