@@ -40,7 +40,7 @@ I also worked on developing data mining techniques to generate insights even whe
 
 + Developed a framework called ConEX to explore high-dimensional configuration space of big-data systems using _ Evolutionary Markov Chain Monte Carlo (EMCMC)_.
 
-+ Using small workloads as proxies, we show that ConEX can find near optimum configurations for workload that at 100x to 1000x larger.
++ Using small workloads as proxies, we show that ConEX can find near optimum configurations for workloads that are 100x to 1000x larger.
 
 + ConEX outperforms competing approaches based on random sampling, genetic algorithms (GA), and ML.
 
