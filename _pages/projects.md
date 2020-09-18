@@ -50,6 +50,15 @@ addresses the concerns we discovered in existing systems
 and demonstrate its potential towards a better vulnerability
 prediction tool.
 
+## Transfer Learning for Configuration Optimization using Bellwethers
+**Project site:**  [rkrsn.us/BEETLE](rkrsn.us/BEETLE)
+
+**Publication:**  [https://arxiv.org/pdf/1911.01817.pdf](https://arxiv.org/pdf/1911.01817.pdf) 
+
+<a href="https://user-images.githubusercontent.com/1433964/92516665-89345580-f1e3-11ea-9a6e-ec1b645e6df6.png"><img src="https://user-images.githubusercontent.com/1433964/92516665-89345580-f1e3-11ea-9a6e-ec1b645e6df6.png" class="img-responsive" alt="http://rkrsn.us/BEETLE"></a>
+
+In this work, we propose a novel transfer learning framework called BEETLE, which is a “bellwether”-based transfer learner that focuses on finding a near-optimal configuration of a software system from using the old configuration data from other workloads. This paper evaluates BEETLE with 57 different software configuration problems based on five software systems (a video encoder, an SAT solver, a SQL database, a high-performance C-compiler, and a streaming data analytics tool). In each of these cases, BEETLE found configurations that are as good as or better than those found by other state-of-the-art transfer learners while requiring only a fraction ( 1 7th) of the measurements needed by those other methods. Based on these results, we say that BEETLE is a new high-water mark in optimally configuring software.
+
 ## Learning Actionable Analytics to Reduce Defects in Software Engineering
 **Project site:**  [http://ai4se.net/xtree-plan](http://ai4se.net/xtree-plan)
 
