@@ -55,7 +55,7 @@ prediction tool.
 
 **Publication:**  [https://arxiv.org/pdf/1708.05442.pdf](https://arxiv.org/pdf/1708.05442.pdf) 
 
-<a href="https://user-images.githubusercontent.com/1433964/93636476-03be5b80-f9c2-11ea-974c-e59df32d1475.png"><img src="https://user-images.githubusercontent.com/1433964/93636476-03be5b80-f9c2-11ea-974c-e59df32d1475.png" class="img-responsive" alt="http://ai4se.net/xtree-plan"></a>
+<a href="https://user-images.githubusercontent.com/1433964/93636848-9bbc4500-f9c2-11ea-9389-360b8450989e.png"><img src="https://user-images.githubusercontent.com/1433964/93636848-9bbc4500-f9c2-11ea-9389-360b8450989e.png" class="img-responsive" alt="http://ai4se.net/xtree-plan"></a>
 
 Most software analytic tools that are currently in use today are mostly prediction
 algorithms. These algorithms are limited to making predictions. We extend this
