@@ -32,7 +32,7 @@ Our results also strongly support the hypothesis that our approach
 outperforms several competing approaches: (1) over 105% better performance than random sampling;
 (2) over 52% better than genetic algorithms; and (3) 1700% better than ML based approaches.
 
-## Real-world Vulnerability prediction using GGNN and Representation Learning
+## Vulnerability prediction using GGNN and Representation Learning
 **Project site:**  [https://github.com/rahlk/ReVeal](https://github.com/rahlk/ReVeal)
 
 **Publication:**  [https://arxiv.org/pdf/2009.07235.pdf](https://arxiv.org/pdf/2009.07235.pdf) 
@@ -49,3 +49,22 @@ for collecting real world vulnerability dataset. We propose REVEAL as a configur
 addresses the concerns we discovered in existing systems
 and demonstrate its potential towards a better vulnerability
 prediction tool.
+
+## Learning Actionable Analytics to Reduce Defects in Software Engineering
+**Project site:**  [http://ai4se.net/xtree-plan](http://ai4se.net/xtree-plan)
+
+**Publication:**  [https://arxiv.org/pdf/1708.05442.pdf](https://arxiv.org/pdf/1708.05442.pdf) 
+
+<a href="https://user-images.githubusercontent.com/1433964/93636476-03be5b80-f9c2-11ea-974c-e59df32d1475.png"><img src="https://user-images.githubusercontent.com/1433964/93636476-03be5b80-f9c2-11ea-974c-e59df32d1475.png" class="img-responsive" alt="http://ai4se.net/xtree-plan"></a>
+
+Most software analytic tools that are currently in use today are mostly prediction
+algorithms. These algorithms are limited to making predictions. We extend this
+by offering “planning”: a novel technology for prescriptive software analytics. Our
+planning tool is BELLTREE, which performs
+cross-project planning and offers users a guidance on what action to take in order to improve the quality
+of a software project. With our BELLTREE planner, we
+show that it is possible to reduce several hundred defects in software projects.
+BELLTREE is a novel extension of our prior work on (1) the bellwether effect, and (2) within-project planning with XTREE. In this work,
+we show that it is possible to use bellwether effect and within-project planning (with
+XTREE) to perform cross-project planning using BELLTREE, without the need for
+more complex transfer learners. 
