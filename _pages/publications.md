@@ -18,6 +18,10 @@ author_profile: true
 
 # Selected Publications 
 
++ She, D., **Krishna, R.**, Yan, L., Jana, S. and Ray, B., ''MTFuzz: Fuzzing with a Multi-Task Neural Network.'' In **Intl. Conference on Foundations of Software Engineering (ECSE/FSE), 2020**. [https://arxiv.org/pdf/2005.12392.pdf](https://arxiv.org/pdf/2005.12392.pdf)
+
++ Chakraborty, S., **Krishna, R.**, Ding, Y. and Ray, B., ''Deep Learning based Vulnerability Detection: Are We There Yet?''. In **IEEE Transactions on Software Engineering (TSE), 2020** *(Under review)*. Link: [https://arxiv.org/abs/1703.06218](https://arxiv.org/abs/1703.06218)
+
 + Wang, J., Yang, Y., **Krishna, R.**, Menzies, T. & Wang, Q., "Effective Automated Decision Support for Managing Crowd testing".  **Intl. Conference on Software Engineering, 2019**, Online: [https://arxiv.org/pdf/1805.02744.pdf](https://arxiv.org/pdf/1805.02744.pdf);
 
 + **Krishna, R.**, Tang, C., Sullivan, K., Ray, B., "ConEx: Efficient Exploration of Big-Data System Configurations for Better Performance". **IEEE Transactions on Software Engineering, 2020**. Online: [https://arxiv.org/pdf/1910.09644.pdf](https://arxiv.org/pdf/1910.09644.pdf);
