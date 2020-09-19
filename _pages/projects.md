@@ -11,9 +11,11 @@ author_profile: true
 
 **Publication:**  [https://arxiv.org/pdf/2005.12392.pdf](https://arxiv.org/pdf/2005.12392.pdf) 
 
+**Framework:**
+
 <a href="https://user-images.githubusercontent.com/57293631/80742593-a34d8100-8ae9-11ea-9f52-a1931d945a5c.png"><img src="https://user-images.githubusercontent.com/57293631/80742593-a34d8100-8ae9-11ea-9f52-a1931d945a5c.png" class="img-responsive" alt="http://rkrsn.us/MTFuzz/"></a>
 
-*Motivation:* Evolutionary fuzzers generate new inputs using an
+**Motivation:** Evolutionary fuzzers generate new inputs using an
 evolutionary search to maximize code coverage. But, they tend to get stuck in
 long sequences of unproductive mutations. Recently, machine
 learning (ML) based fuzzers strategies have reported promising
@@ -22,7 +24,7 @@ lack of quality and diversity of the training data. As the input space
 of the target programs is high dimensional and sparse, it is prohibitively expensive to collect many diverse samples demonstrating
 successful and unsuccessful mutations to train ML models.
 
-*Solution*
+**Solution:**
 
 + We proposed MTFuzz, a novel neural network assisted fuzzer based on multi-task learning technique. 
 
@@ -34,15 +36,17 @@ successful and unsuccessful mutations to train ML models.
 **Project site:**  [rkrsn.us/ConEX](rkrsn.us/ConEX) 
 
 **Publication:**  [https://arxiv.org/pdf/1910.09644.pdf](https://arxiv.org/pdf/1910.09644.pdf) 
+ 
+**Framework:**
 
 <a href="https://user-images.githubusercontent.com/1433964/92539328-222c9600-f20f-11ea-8782-03a1d82cc7f7.png"><img src="https://user-images.githubusercontent.com/1433964/92539328-222c9600-f20f-11ea-8782-03a1d82cc7f7.png" class="img-responsive" alt="http://rkrsn.us/ConEX/"></a>
 
-*Motivation:* Configuration space complexity makes the big-data software systems hard to configure well. Consider Hadoop, with over
+**Motivation:** Configuration space complexity makes the big-data software systems hard to configure well. Consider Hadoop, with over
 nine hundred parameters, developers often just use the default configurations provided with Hadoop distributions. The opportunity
 costs in lost performance are significant. Popular learning-based approaches to auto-tune software does not scale well for big-data
 systems because of the high cost of collecting training data.
 
-*Solution*
+**Solution:**
 
 + We proposed ConEX, an EMCMC-based sampling
 strategy, that can find high-performing configurations for
@@ -60,15 +64,17 @@ the performance of real-world big data systems such as Hadoop and Spark.
 
 **Publication:**  [https://arxiv.org/pdf/2009.07235.pdf](https://arxiv.org/pdf/2009.07235.pdf) 
 
+**Framework:**
+
 <a href="https://user-images.githubusercontent.com/1433964/93635697-bc839b00-f9c0-11ea-995e-cf3205b7cac2.png"><img src="https://user-images.githubusercontent.com/1433964/93635697-bc839b00-f9c0-11ea-995e-cf3205b7cac2.png" class="img-responsive" alt="https://github.com/rahlk/ReVeal"></a>
 
-*Motivation:* Automated detection of software vulnerabilities is a fundamental problem in software security. Existing program analysis
+**Motivation:** Automated detection of software vulnerabilities is a fundamental problem in software security. Existing program analysis
 techniques either suffer from high false positives or false negatives. Recent progress in Deep Learning (DL) has resulted in a surge of
 interest in applying DL for automated vulnerability detection. Several recent studies have demonstrated promising results achieving an
 accuracy of up to 95% at detecting vulnerabilities. In this work, we ask, “how well do the state-of-the-art DL-based techniques perform
 in a real-world vulnerability prediction scenario?”.
 
-*Solution*
+**Solution:**
 
 + We systematically study different aspects of
 Deep Learning based Vulnerability Detection to effectively
@@ -89,16 +95,18 @@ addresses the above concerns.
 
 **Publication:**  [https://arxiv.org/pdf/1911.01817.pdf](https://arxiv.org/pdf/1911.01817.pdf) 
 
+**Framework:**
+
 <a href="https://user-images.githubusercontent.com/1433964/92516665-89345580-f1e3-11ea-9a6e-ec1b645e6df6.png"><img src="https://user-images.githubusercontent.com/1433964/92516665-89345580-f1e3-11ea-9a6e-ec1b645e6df6.png" class="img-responsive" alt="http://rkrsn.us/BEETLE"></a>
 
-*Motivation:* As software systems grow in complexity and the space of possible configurations increases exponentially, finding the near-optimal configuration
+**Motivation:** As software systems grow in complexity and the space of possible configurations increases exponentially, finding the near-optimal configuration
 of a software system becomes challenging. Recent approaches address this challenge by learning performance models based on a sample set of
 configurations. However, collecting enough sample configurations can be very expensive since each such sample requires configuring, compiling, and
 executing the entire system using a complex test suite. When learning on new data is too expensive, it is possible to use Transfer Learning to “transfer”
 old lessons to the new context. Traditional transfer learning has a number of challenges, specifically, (a) learning from excessive data takes excessive time,
 and (b) the performance of the models built via transfer can deteriorate as a result of learning from a poor source. 
 
-*Solution*
+**Solution:**
 
 + In this work, we propose a novel transfer learning framework called BEETLE, which is a transfer learner that focuses on finding a near-optimal configuration of a software system from using the old configuration data from other elsewhere. 
 
@@ -111,13 +119,15 @@ and (b) the performance of the models built via transfer can deteriorate as a re
 
 **Publication:**  [https://arxiv.org/pdf/1708.05442.pdf](https://arxiv.org/pdf/1708.05442.pdf) 
 
+**Framework:**
+
 <a href="https://user-images.githubusercontent.com/1433964/93636848-9bbc4500-f9c2-11ea-9389-360b8450989e.png"><img src="https://user-images.githubusercontent.com/1433964/93636848-9bbc4500-f9c2-11ea-9389-360b8450989e.png" class="img-responsive" alt="http://ai4se.net/xtree-plan"></a>
 
-*Motivation:*  Most software analytic tools that are currently in use today are mostly prediction
+**Motivation:**  Most software analytic tools that are currently in use today are mostly prediction
 algorithms. These algorithms are limited to making predictions. We extend this
 by offering “planning”: a novel technology for prescriptive software analytics. 
 
-*Solution*
+**Solution:**
 
 + We propose a planning tool call BELLTREE, which performs cross-project planning and offers users a guidance on what action to take in order to improve the quality
 of a software project. 
