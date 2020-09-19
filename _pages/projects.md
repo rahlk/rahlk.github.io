@@ -13,11 +13,22 @@ author_profile: true
 
 <a href="https://user-images.githubusercontent.com/57293631/80742593-a34d8100-8ae9-11ea-9f52-a1931d945a5c.png"><img src="https://user-images.githubusercontent.com/57293631/80742593-a34d8100-8ae9-11ea-9f52-a1931d945a5c.png" class="img-responsive" alt="http://rkrsn.us/MTFuzz/"></a>
 
-+ MTFuzz is a novel neural network assisted fuzzer based on multi-task learning technique. 
+*Motivation:* Evolutionary fuzzers generate new inputs using an
+evolutionary search to maximize code coverage. But, they tend to get stuck in
+long sequences of unproductive mutations. Recently, machine
+learning (ML) based fuzzers strategies have reported promising
+results. However, the existing ML-based fuzzers are limited by the
+lack of quality and diversity of the training data. As the input space
+of the target programs is high dimensional and sparse, it is prohibitively expensive to collect many diverse samples demonstrating
+successful and unsuccessful mutations to train ML models.
+
+*Solution*
+
++ We proposed MTFuzz, a novel neural network assisted fuzzer based on multi-task learning technique. 
 
 + It uses a NN to learn a compact embedding of input file for multiple fuzzing tasks (i.e., predicting different types of code coverage). The compact embedding is used to guide effective mutation by focusing on hot bytes. 
 
-+ Results show MTFuzz uncovers 11 previously unseen bugs and achieves an average of 2x more edge coverage compared with 5 state-of-the-art fuzzers on 10 real-world programs.
++ Results show MTFuzz outperforms current state-of-the-art fuzzers uncovering 11 previously unseen bugs. It achieves an average of 2x more edge coverage compared with 5 state-of-the-art fuzzers on 10 real-world programs.
 
 ## Scalable Performance optimization for Big-Data Systems using Evolutionary-MCMC
 **Project site:**  [rkrsn.us/ConEX](rkrsn.us/ConEX) 
@@ -25,6 +36,13 @@ author_profile: true
 **Publication:**  [https://arxiv.org/pdf/1910.09644.pdf](https://arxiv.org/pdf/1910.09644.pdf) 
 
 <a href="https://user-images.githubusercontent.com/1433964/92539328-222c9600-f20f-11ea-8782-03a1d82cc7f7.png"><img src="https://user-images.githubusercontent.com/1433964/92539328-222c9600-f20f-11ea-8782-03a1d82cc7f7.png" class="img-responsive" alt="http://rkrsn.us/ConEX/"></a>
+
+*Motivation:* Configuration space complexity makes the big-data software systems hard to configure well. Consider Hadoop, with over
+nine hundred parameters, developers often just use the default configurations provided with Hadoop distributions. The opportunity
+costs in lost performance are significant. Popular learning-based approaches to auto-tune software does not scale well for big-data
+systems because of the high cost of collecting training data.
+
+*Solution*
 
 + We proposed ConEX, an EMCMC-based sampling
 strategy, that can find high-performing configurations for
@@ -50,7 +68,7 @@ interest in applying DL for automated vulnerability detection. Several recent st
 accuracy of up to 95% at detecting vulnerabilities. In this work, we ask, “how well do the state-of-the-art DL-based techniques perform
 in a real-world vulnerability prediction scenario?”.
 
-*Summary of findings*
+*Solution*
 
 + We systematically study different aspects of
 Deep Learning based Vulnerability Detection to effectively
@@ -80,7 +98,7 @@ executing the entire system using a complex test suite. When learning on new dat
 old lessons to the new context. Traditional transfer learning has a number of challenges, specifically, (a) learning from excessive data takes excessive time,
 and (b) the performance of the models built via transfer can deteriorate as a result of learning from a poor source. 
 
-*Summary of findings*
+*Solution*
 
 + In this work, we propose a novel transfer learning framework called BEETLE, which is a transfer learner that focuses on finding a near-optimal configuration of a software system from using the old configuration data from other elsewhere. 
 
@@ -99,7 +117,7 @@ and (b) the performance of the models built via transfer can deteriorate as a re
 algorithms. These algorithms are limited to making predictions. We extend this
 by offering “planning”: a novel technology for prescriptive software analytics. 
 
-*Summary of findings*
+*Solution*
 
 + We propose a planning tool call BELLTREE, which performs cross-project planning and offers users a guidance on what action to take in order to improve the quality
 of a software project. 
