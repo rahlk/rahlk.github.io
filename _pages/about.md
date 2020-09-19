@@ -22,9 +22,9 @@ I am currently looking for academic and industrial positions. For more details, 
 + my [Publications](https://rahlk.github.io/publications/). 
 
  
- ## Selected Publications
+## Selected Publications
 
- ### Software testing
+### Software testing
 
 + She, D., **Krishna, R.**, Yan, L., Jana, S. and Ray, B., ''MTFuzz: Fuzzing with a Multi-Task Neural Network.'' In **Intl. Conference on Foundations of Software Engineering (ECSE/FSE), 2020**. [https://arxiv.org/pdf/2005.12392.pdf](https://arxiv.org/pdf/2005.12392.pdf)
 
@@ -36,7 +36,7 @@ I am currently looking for academic and industrial positions. For more details, 
 
 + Chakraborty, S., **Krishna, R.**, Ding, Y. and Ray, B., ''Deep Learning based Vulnerability Detection: Are We There Yet?''. In **IEEE Transactions on Software Engineering (TSE), 2020** *(Under review)*. Link: [https://arxiv.org/abs/1703.06218](https://arxiv.org/abs/1703.06218)
 
- ### Decision Making
+### Decision Making
 
 + **Krishna, R.**, Menzies, T., & Fu, W. "Too much automation?  The Bellwether Effect and its Implications for Transfer Learning." **Intl. Conference on Automated Software Engineering (ASE), 2016.**  Online: [https://doi.org/10.1145/2970276.2970339](https://doi.org/10.1145/2970276.2970339);
 
@@ -45,7 +45,7 @@ I am currently looking for academic and industrial positions. For more details, 
 + **Krishna, R.** & Menzies, T., "Bellwethers:  A Baseline Method For Transfer Learning".  In **IEEE Transactions on Software Engineering (TSE), 2018.** Online: [https://arxiv.org/pdf/1703.06218](https://arxiv.org/pdf/1703.06218);
 
 
- ### Optimizing configurable systems
+### Optimizing configurable systems
 
  + **Krishna, R.**, Tang, C., Sullivan, K., Ray, B., "ConEx: Efficient Exploration of Big-Data System Configurations for Better Performance". **IEEE Transactions on Software Engineering, 2020**. Online: [https://arxiv.org/pdf/1910.09644.pdf](https://arxiv.org/pdf/1910.09644.pdf);
 
