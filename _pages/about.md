@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Post doctoral fellow at Columbia University working [ARiSE Lab](https://www.rayb.info/ariselab) with Dr. Baishakhi Ray (see [rayb.info](rayb.info)). My current research explores intersection of software engineering and machine learning for such domain as (a) software testing, (b) optimizing highly configurable systems, and (c)decision making.
+I am a Post doctoral fellow at Columbia University working [ARiSE Lab](https://www.rayb.info/ariselab) with Dr. Baishakhi Ray (see [rayb.info](rayb.info)). My current research explores intersection of software engineering and machine learning for such domain as (a) software testing and (b) optimizing highly configurable systems.
 
 I obtained my PhD form [RAISE Lab](http://ai4se.net/) at NC State University under the guidance of Dr. Tim Menzies (see [menzies.us](http://menzies.us)). During my PhD, I worked on *actionable analytics* for software engineering. I developed algorithms that go beyond prediction to generate insights that can assist decision making. I also worked on developing data mining techniques (transfer learning) to generate insights even when sufficient data is not available. 
 
@@ -34,6 +34,12 @@ I am currently looking for academic and industrial positions. For more details, 
 
 + Chen, D., Fu, W., **Krishna, R.**, & Menzies, T. "Applications of psychological science for actionable analytics".  **Intl. Conference on Foundations of Software Engineering (ECSE/FSE), 2018.**  Online: [https://arxiv.org/pdf/1803.05067](https://arxiv.org/pdf/1803.05067)
 
++ **Krishna, R.**, Menzies, T., & Fu, W. "Too much automation?  The Bellwether Effect and its Implications for Transfer Learning." **Intl. Conference on Automated Software Engineering (ASE), 2016.**  Online: [https://doi.org/10.1145/2970276.2970339](https://doi.org/10.1145/2970276.2970339);
+
++ **Krishna, R.**, Menzies, T., "Learning Actionable Analytics from Multiple Software Projects". **Empirical Software Engineering Journal (EMSE), 2019** . Online: [https://arxiv.org/pdf/1708.05442.pdf](https://arxiv.org/pdf/1708.05442.pdf);
+
++ **Krishna, R.** & Menzies, T., "Bellwethers:  A Baseline Method For Transfer Learning".  In **IEEE Transactions on Software Engineering (TSE), 2018.** Online: [https://arxiv.org/pdf/1703.06218](https://arxiv.org/pdf/1703.06218);
+
 ### Optimizing configurable systems
 
 + **Krishna, R.**, Tang, C., Sullivan, K., Ray, B., "ConEx: Efficient Exploration of Big-Data System Configurations for Better Performance". **IEEE Transactions on Software Engineering (TSE), 2020**. Online: [https://arxiv.org/pdf/1910.09644.pdf](https://arxiv.org/pdf/1910.09644.pdf);
@@ -42,14 +48,6 @@ I am currently looking for academic and industrial positions. For more details, 
 
 + Chen, J., Nair, V., **Krishna, R.**, & Menzies, T. "Sampling as a Baseline Optimizer for Search-based Software Engineering". **IEEE Transactions on Software Engineering (TSE), 2018.**  Online: [https://arxiv.org/pdf/1608.07617](https://arxiv.org/pdf/1608.07617);
 
-
-### Decision Making
-
-+ **Krishna, R.**, Menzies, T., & Fu, W. "Too much automation?  The Bellwether Effect and its Implications for Transfer Learning." **Intl. Conference on Automated Software Engineering (ASE), 2016.**  Online: [https://doi.org/10.1145/2970276.2970339](https://doi.org/10.1145/2970276.2970339);
-
-+ **Krishna, R.**, Menzies, T., "Learning Actionable Analytics from Multiple Software Projects". **Empirical Software Engineering Journal (EMSE), 2019** . Online: [https://arxiv.org/pdf/1708.05442.pdf](https://arxiv.org/pdf/1708.05442.pdf);
-
-+ **Krishna, R.** & Menzies, T., "Bellwethers:  A Baseline Method For Transfer Learning".  In **IEEE Transactions on Software Engineering (TSE), 2018.** Online: [https://arxiv.org/pdf/1703.06218](https://arxiv.org/pdf/1703.06218);
 
 ### Industrial Collaboration
 
