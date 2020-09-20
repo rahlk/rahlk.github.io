@@ -4,9 +4,7 @@ title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+You can also find my articles on my [Google Scholar profile](https://scholar.google.co.in/citations?user=WGggocoAAAAJ&).
 
 
 + She, D., **Krishna, R.**, Yan, L., Jana, S. and Ray, B., ''MTFuzz: Fuzzing with a Multi-Task Neural Network.'' In **Intl. Conference on Foundations of Software Engineering (ECSE/FSE), 2020**. [https://arxiv.org/pdf/2005.12392.pdf](https://arxiv.org/pdf/2005.12392.pdf)
