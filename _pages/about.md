@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Post doctoral fellow at Columbia University working [ARiSE Lab](https://www.rayb.info/ariselab) with Dr. Baishakhi Ray (see [rayb.info](rayb.info)). My current research explores intersection of software engineering and machine learning for such domain as (a) software testing and (b) optimizing highly configurable systems.
+I am a Post doctoral fellow at Columbia University working [ARiSE Lab](https://www.rayb.info/ariselab) with Dr. Baishakhi Ray (see [rayb.info](rayb.info)). In a nutshell, my current research explores the ways in which Machine Learning can be used to *triggger, detect, and repair* various problems in a software engineering pipeline. 
 
 I obtained my PhD form [RAISE Lab](http://ai4se.net/) at NC State University under the guidance of Dr. Tim Menzies (see [menzies.us](http://menzies.us)). During my PhD, I worked on *actionable analytics* for software engineering. I developed algorithms that go beyond prediction to generate insights that can assist decision making. I also worked on developing data mining techniques (transfer learning) to generate insights even when sufficient data is not available. 
 
@@ -48,7 +48,6 @@ I am currently looking for academic and industrial positions. For more details, 
 + **Krishna, R.**, Nair, V., Jamshidi, P., & Menzies, T., "Whence to Learn? Transferring Knowledge in Configurable Systems using BEETLE." **IEEE Transactions on Software Engineering (TSE), 2020**. [https://arxiv.org/pdf/1910.09644.pdf](https://arxiv.org/pdf/1910.09644.pdf);
 
 + Chen, J., Nair, V., **Krishna, R.**, & Menzies, T. "Sampling as a Baseline Optimizer for Search-based Software Engineering". **IEEE Transactions on Software Engineering (TSE), 2018.**  Online: [https://arxiv.org/pdf/1608.07617](https://arxiv.org/pdf/1608.07617);
-
 
 ### Industrial Collaboration
 
