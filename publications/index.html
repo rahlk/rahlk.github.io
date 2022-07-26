@@ -101,7 +101,76 @@
             <!-- _pages/publications.md -->
 <div class="publications">
   <h2 class="year">2022</h2>
-  <ol class="bibliography"><li>
+  <ol class="bibliography">
+<li>
+<!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><abbr class="badge">MSR</abbr></div>
+
+        <!-- Entry bib key -->
+        <div id="majumder22stabilizer" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Methods for Stabilizing Models Across Large Samples of Projects (with case studies on Predicting Defect and Project Health)</div>
+          <!-- Author -->
+          <div class="author">Majumder, Suvodeep, Xia, Tianpei, 
+                  <em>Krishna, Rahul</em>, and Menzies, Tim
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>In IEEE/ACM 19th International Conference on Mining Software Repositories (MSR ‘22)</em> 2022
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+            <a href="https://ieeexplore.ieee.org/abstract/document/9796244" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">HTML</a>
+            <a href="https://arxiv.org/pdf/1911.04250.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">PDF</a>
+          </div>
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>Despite decades of research, Software Engineering (SE) lacks widely accepted models (that offer precise quantitative stable predictions) about what factors most influence software quality. This paper provides a promising result showing such stable models can be generated using a new transfer learning framework called “STABILIZER”. Given a tree of recursively clustered projects (using project meta-data), STABILIZER promotes a model upwards if it performs best in the lower clusters (stopping when the promoted model performs worse than the models seen at a lower level). The number of models found by STABILIZER is minimal: one for defect prediction (756 projects) and less than a dozen for project health (1628 projects). Hence, via STABILIZER, it is possible to find a few projects which can be used for transfer learning and make conclusions that hold across hundreds of projects at a time. Further, the models produced in this manner offer predictions that perform as well or better than the prior state-of-the-art. To the best of our knowledge, STABILIZER is order of magnitude faster than the prior state-of-the-art transfer learners which seek to find conclusion stability, and these case studies are the largest demonstration of the generalizability of quantitative predictions of project quality yet reported in the SE literature. In order to support open science, all our scripts and data are online at \urlhttps://github.com/Anonymous633671/STABILIZER.</p>
+          </div>
+        </div>
+      </div>
+</li>
+<li>
+<!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><abbr class="badge">ASE</abbr></div>
+
+        <!-- Entry bib key -->
+        <div id="nitin2022cargo" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">CARGO: AI-Guided Dependency Analysis for Migrating Monolithic Applications to Microservices Architecture</div>
+          <!-- Author -->
+          <div class="author">Nitin, Vikram, Asthana, Shubhi, Ray, Baishakhi, and <em>Krishna, Rahul</em>
+                
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>In Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering (ASE ’22), October 10–14, 2022, Ann Arbor, MI, USA.</em> 2022
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+            <a href="https://arxiv.org/abs/2207.11784" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">HTML</a>
+            <a href="https://arxiv.org/pdf/2207.11784.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">PDF</a>
+          </div>
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>Microservices Architecture (MSA) has become a de-facto standard for designing cloud-native enterprise applications due to its efficient infrastructure setup, service availability, elastic scalability, dependability, and better security. Existing (monolithic) systems must be decomposed into microservices to harness these characteristics. Since manual decomposition of large scale applications can be laborious and error-prone, AI-based systems to detect decomposition strategies are gaining popularity. However, the usefulness of these approaches is limited by the expressiveness of the program representation and their inability to model the application’s dependency on critical external resources such as databases. Consequently, partitioning recommendations offered by current tools result in architectures that result in (a) distributed monoliths, and/or (b) force the use of (often criticized) distributed transactions. This work attempts to overcome these challenges by introducing CARGO(short for [C]ontext-sensitive l[A]bel p[R]opa[G]ati[O]n)-a novel un-/semi-supervised partition refinement technique that uses a context- and flow-sensitive system dependency graph of the monolithic application to refine and thereby enrich the partitioning quality of the current state-of-the-art algorithms. CARGO was used to augment four state-of-the-art microservice partitioning techniques that were applied on five Java EE applications (including one industrial scale proprietary project). Experiments demostrate that CARGO can improve the partition quality of all modern microservice partitioning techniques. Further, CARGO substantially reduces distributed transactions and a real-world performance evaluation of a benchmark application (deployed under varying loads) shows that CARGO also lowers the overall the latency of the deployed microservice application by 11% and increases throughput by 120% on average.</p>
+          </div>
+        </div>
+      </div>
+</li>
+<li>
 <!-- _layouts/bib.html -->
       <div class="row">
         <div class="col-sm-2 abbr"><abbr class="badge">EuroSys</abbr></div>
@@ -134,7 +203,8 @@
           </div>
         </div>
       </div>
-</li></ol>
+</li>
+</ol>
 
   <h2 class="year">2021</h2>
   <ol class="bibliography">

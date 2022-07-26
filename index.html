@@ -129,7 +129,7 @@
     <p><a href="/assets/pdf/resume.pdf">Resume</a>.</p>
   </li>
   <li>
-    <p><a href="https://rahlk.github.io/publications/" target="_blank" rel="noopener noreferrer">Publications</a>.</p>
+    <p><a href="/publications">Publications</a>.</p>
   </li>
 </ul>
 
@@ -141,9 +141,23 @@
             <div class="table-responsive">
               <table class="table table-sm table-borderless"> 
                 <tr>
+                  <th scope="row">Jul 20, 2022</th>
+                  <td>
+                    <a href="https://arxiv.org/abs/2207.11784" target="_blank" rel="noopener noreferrer">CARGO</a> has been acepted at ASE’22
+ 
+                  </td>
+                </tr> 
+                <tr>
+                  <th scope="row">Feb 1, 2022</th>
+                  <td>
+                    <a href="https://ieeexplore.ieee.org/abstract/document/9796244" target="_blank" rel="noopener noreferrer">STABILIZER</a> has been acepted at MSR’22
+ 
+                  </td>
+                </tr> 
+                <tr>
                   <th scope="row">Jan 24, 2022</th>
                   <td>
-                    <a href="https://arxiv.org/pdf/2201.08413.pdf" target="_blank" rel="noopener noreferrer">Unicorn</a> has been acepted EuroSys’22
+                    <a href="https://arxiv.org/pdf/2201.08413.pdf" target="_blank" rel="noopener noreferrer">Unicorn</a> has been acepted at EuroSys’22
  
                   </td>
                 </tr> 
@@ -161,20 +175,6 @@
  
                   </td>
                 </tr> 
-                <tr>
-                  <th scope="row">Jul 1, 2021</th>
-                  <td>
-                    <a href="https://arxiv.org/pdf/2201.08413.pdf" target="_blank" rel="noopener noreferrer">Mono2Micro</a> has been accepted at FSE ‘21 Industry track.
- 
-                  </td>
-                </tr> 
-                <tr>
-                  <th scope="row">Mar 1, 2021</th>
-                  <td>
-                    Joined IBM as a Research Staff Member in the Hybrid Cloud Division.
- 
-                  </td>
-                </tr> 
               </table>
             </div> 
           </div>
@@ -183,6 +183,40 @@
           <div class="publications">
             <h2>selected publications</h2>
             <ol class="bibliography">
+<li>
+<!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><abbr class="badge">ASE</abbr></div>
+
+        <!-- Entry bib key -->
+        <div id="nitin2022cargo" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">CARGO: AI-Guided Dependency Analysis for Migrating Monolithic Applications to Microservices Architecture</div>
+          <!-- Author -->
+          <div class="author">Nitin, Vikram, Asthana, Shubhi, Ray, Baishakhi, and <em>Krishna, Rahul</em>
+                
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>In Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering (ASE ’22), October 10–14, 2022, Ann Arbor, MI, USA.</em> 2022
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+            <a href="https://arxiv.org/abs/2207.11784" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">HTML</a>
+            <a href="https://arxiv.org/pdf/2207.11784.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">PDF</a>
+          </div>
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>Microservices Architecture (MSA) has become a de-facto standard for designing cloud-native enterprise applications due to its efficient infrastructure setup, service availability, elastic scalability, dependability, and better security. Existing (monolithic) systems must be decomposed into microservices to harness these characteristics. Since manual decomposition of large scale applications can be laborious and error-prone, AI-based systems to detect decomposition strategies are gaining popularity. However, the usefulness of these approaches is limited by the expressiveness of the program representation and their inability to model the application’s dependency on critical external resources such as databases. Consequently, partitioning recommendations offered by current tools result in architectures that result in (a) distributed monoliths, and/or (b) force the use of (often criticized) distributed transactions. This work attempts to overcome these challenges by introducing CARGO(short for [C]ontext-sensitive l[A]bel p[R]opa[G]ati[O]n)-a novel un-/semi-supervised partition refinement technique that uses a context- and flow-sensitive system dependency graph of the monolithic application to refine and thereby enrich the partitioning quality of the current state-of-the-art algorithms. CARGO was used to augment four state-of-the-art microservice partitioning techniques that were applied on five Java EE applications (including one industrial scale proprietary project). Experiments demostrate that CARGO can improve the partition quality of all modern microservice partitioning techniques. Further, CARGO substantially reduces distributed transactions and a real-world performance evaluation of a benchmark application (deployed under varying loads) shows that CARGO also lowers the overall the latency of the deployed microservice application by 11% and increases throughput by 120% on average.</p>
+          </div>
+        </div>
+      </div>
+</li>
 <li>
 <!-- _layouts/bib.html -->
       <div class="row">
@@ -213,40 +247,6 @@
           <!-- Hidden abstract block -->
           <div class="abstract hidden">
             <p>Modern computer systems are highly configurable, with the variability space sometimes larger than the number of atoms in the universe. Understanding and reasoning about the performance behavior of highly configurable systems, due to a vast variability space, is challenging. State-of-the-art methods for performance modeling and analyses rely on predictive machine learning models, therefore, they become (i) unreliable in unseen environments (e.g., different hardware, workloads), and (ii) produce incorrect explanations. To this end, we propose a new method, called Unicorn, which (a) captures intricate interactions between configuration options across the software-hardware stack and (b) describes how such interactions impact performance variations via causal inference. We evaluated Unicorn on six highly configurable systems, including three on-device machine learning systems, a video encoder, a database management system, and a data analytics pipeline. The experimental results indicate that Unicorn outperforms state-of-the-art performance optimization and debugging methods. Furthermore, unlike the existing methods, the learned causal performance models reliably predict performance for new environments.</p>
-          </div>
-        </div>
-      </div>
-</li>
-<li>
-<!-- _layouts/bib.html -->
-      <div class="row">
-        <div class="col-sm-2 abbr"><abbr class="badge">FSE</abbr></div>
-
-        <!-- Entry bib key -->
-        <div id="kalia2021mono2micro" class="col-sm-8">
-        
-          <!-- Title -->
-          <div class="title">Mono2Micro: A practical and effective tool for decomposing monolithic Java applications to microservices</div>
-          <!-- Author -->
-          <div class="author">Kalia, Anup K, Xiao, Jin, 
-                  <em>Krishna, Rahul</em>, Sinha, Saurabh, Vukovic, Maja, and Banerjee, Debasish
-          </div>
-
-          <!-- Journal/Book title and date -->
-          <div class="periodical">
-            <em>In Proceedings of the 29th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE).</em> 2021
-          </div>
-        
-          <!-- Links/Buttons -->
-          <div class="links">
-            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
-            <a href="https://arxiv.org/abs/2107.09698" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">HTML</a>
-            <a href="https://arxiv.org/pdf/2107.09698" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">PDF</a>
-          </div>
-
-          <!-- Hidden abstract block -->
-          <div class="abstract hidden">
-            <p>In migrating production workloads to cloud, enterprises often face the daunting task of evolving monolithic applications toward a microservice architecture. At IBM, we developed a tool called Mono2Micro to assist with this challenging task. Mono2Micro performs spatio-temporal decomposition, leveraging well-defined business use cases and runtime call relations to create functionally cohesive partitioning of application classes. Our preliminary evaluation of Mono2Micro showed promising results. How well does Mono2Micro perform against other decomposition techniques, and how do practitioners perceive the tool? This paper describes the technical foundations of Mono2Micro and presents results to answer these two questions. To answer the first question, we evaluated Mono2Micro against four existing techniques on a set of open-source and proprietary Java applications and using different metrics to assess the quality of decomposition and tool’s efficiency. Our results show that Mono2Micro significantly outperforms state-of-the-art baselines in specific metrics well-defined for the problem domain. To answer the second question, we conducted a survey of twenty-one practitioners in various industry roles who have used Mono2Micro. This study highlights several benefits of the tool, interesting practitioner perceptions, and scope for further improvements. Overall, these results show that Mono2Micro can provide a valuable aid to practitioners in creating functionally cohesive and explainable microservice decompositions.</p>
           </div>
         </div>
       </div>
