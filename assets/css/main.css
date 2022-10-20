@@ -46,6 +46,7 @@ body {
   padding-bottom: 70px;
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
+  font-family: "Fira Sans", sans-serif;
 }
 body h1,
 body h2,
