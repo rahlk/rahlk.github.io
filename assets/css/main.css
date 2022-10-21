@@ -136,7 +136,9 @@ blockquote {
 .profile .address p {
   display: inline-block;
   margin: 0;
+  font-family: "Fira Mono";
 }
+
 @media (min-width: 576px) {
   .profile {
     width: 30%;
